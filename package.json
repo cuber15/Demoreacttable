@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "latest",
+    "@mui/x-data-grid-generator": "latest",
+    "@mui/x-data-grid-pro": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.11.1/docs/data/data-grid/column-ordering/ColumnOrderingGrid.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "columnorderinggrid-material-demo",
+  "title": "ColumnOrderingGrid Material Demo",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
